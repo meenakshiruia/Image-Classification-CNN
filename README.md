@@ -1,8 +1,6 @@
 # Image Classification using Convoluted Neural Network
-# Video Demo:  [<URL HERE>](https://youtu.be/DOqqxGUbt9c)
+# Video Demo: https://youtu.be/DOqqxGUbt9c
 # Description:
-
-
 Image classification using Convolutional Neural Networks (CNNs) is a powerful technique for training computers to identify objects and scenes in images. Here's a breakdown of the process:
 CNN is very effective for image processing tasks. One should prefer CNN over ANN for image classification as they are more accurate and effective for image processing tasks.
 1. Data Preparation:
